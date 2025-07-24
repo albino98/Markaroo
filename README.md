@@ -43,6 +43,8 @@ It provides a clean interface to create, edit, and render Markdown files with li
 
 ---
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 1. Clone the repository or download the source code.
