@@ -101,9 +101,6 @@ Feel free to fork it or open issues for feedback and suggestions.
 
 This project uses the following third-party libraries and resources:
 
-- [tkinter](https://docs.python.org/3/library/tkinter.html) — Python's standard GUI toolkit.
-- [tkhtmlview](https://github.com/Andereoo/Tkinter-HTML-Label) — For rendering HTML and Markdown preview.
-- [markdown](https://python-markdown.github.io/) — Python library to convert Markdown text to HTML.
 - [Azure-ttk-theme](https://github.com/rdbende/Azure-ttk-theme) — Modern and clean theme for Tkinter ttk widgets.
 
 
