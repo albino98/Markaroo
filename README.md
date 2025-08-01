@@ -1,5 +1,6 @@
 # Markaroo
 
+![Logo](markaroo256.png)
 
 Markaroo is a simple and elegant desktop application to manage and edit multiple Markdown files with ease.  
 It provides a clean interface to create, edit, and render Markdown files with live preview, plus handy templates like To-Do lists, daily logs, and developer notes.
