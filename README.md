@@ -1,31 +1,7 @@
-# MarkdownMate
+# Markaroo
 
-```
-          _____                    _____          
-         /\    \                  /\    \         
-        /::\____\                /::\____\        
-       /::::|   |               /::::|   |        
-      /:::::|   |              /:::::|   |        
-     /::::::|   |             /::::::|   |        
-    /:::/|::|   |            /:::/|::|   |        
-   /:::/ |::|   |           /:::/ |::|   |        
-  /:::/  |::|___|______    /:::/  |::|___|______  
- /:::/   |::::::::\    \  /:::/   |::::::::\    \ 
-/:::/    |:::::::::\____\/:::/    |:::::::::\____\
-\::/    / ~~~~~/:::/    /\::/    / ~~~~~/:::/    /
- \/____/      /:::/    /  \/____/      /:::/    / 
-             /:::/    /               /:::/    /  
-            /:::/    /               /:::/    /   
-           /:::/    /               /:::/    /    
-          /:::/    /               /:::/    /     
-         /:::/    /               /:::/    /      
-        /:::/    /               /:::/    /       
-        \::/    /                \::/    /        
-         \/____/                  \/____/         
 
-```
-
-MarkdownMate is a simple and elegant desktop application to manage and edit multiple Markdown files with ease.  
+Markaroo is a simple and elegant desktop application to manage and edit multiple Markdown files with ease.  
 It provides a clean interface to create, edit, and render Markdown files with live preview, plus handy templates like To-Do lists, daily logs, and developer notes.
 
 ---
@@ -50,8 +26,8 @@ It provides a clean interface to create, edit, and render Markdown files with li
 1. Clone the repository or download the source code.
 
 ```bash
-git clone https://github.com/yourusername/MarkdownMate.git
-cd MarkdownMate
+git clone https://github.com/albino98/Markaroo.git
+cd Markaroo
 ```
 2. (Optional but recommended) Create and activate a virtual environment:
 ```
